@@ -33,4 +33,6 @@ body {
    padding: 30px 50px;
    background-color: antiquewhite;
    border-radius: 15px;
+   box-shadow: 10px 10px 5px 0px rgb(38, 6, 198);
+   
 }
