@@ -21,3 +21,9 @@ body {
     background: linear-gradient(0deg, rgba(34,195,134,1) 0%, rgba(224,253,45,1) 100%);
 
 }
+
+#titulo {
+    margin-bottom: 40px;
+    font-size: 20px;
+    color:darkslategrey;
+}
