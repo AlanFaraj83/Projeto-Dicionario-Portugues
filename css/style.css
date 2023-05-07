@@ -54,3 +54,12 @@ body {
     border-radius: 30px;
 
 }
+
+#container_inputtxt {
+    outline: none;
+    border: 1px solid red;
+    width: 80%;
+    height: 40px;
+   padding: 5px;
+   border-radius: 10px;
+}
