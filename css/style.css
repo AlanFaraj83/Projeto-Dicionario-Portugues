@@ -43,3 +43,14 @@ body {
     margin-bottom: 50px;
     position: relative;
 }
+
+#container_input::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    border-top: 2px solid #6666;
+    margin-top: 70px;
+    height: 10px;
+    border-radius: 30px;
+
+}
