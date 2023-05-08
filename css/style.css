@@ -81,3 +81,10 @@ body {
 #container_btn:hover {
     background-color: blue;
 }
+
+#container_palavra {
+    color: #0000ff;
+    font-size: 22px;
+    margin-bottom: 12px;
+    text-transform: capitalize;
+}
