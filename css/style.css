@@ -94,3 +94,9 @@ body {
     font-style: italic;
     margin-bottom: 10px;
 }
+
+span {
+    font-size: 20px;
+    color: blue;
+    margin-right: 5px;
+}
