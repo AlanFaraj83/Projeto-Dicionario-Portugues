@@ -25,5 +25,16 @@
   * CSS
   * JAVASCRIPT
   * DOM
+
+  ### <strong><i>Como clonar o projeto:</i></strong>
+
+<p> git clone https://github.com/AlanFaraj83/Projeto-Dicionario-Portugues.git</p>
+
+</br>
+
+## 📝 Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE] https://github.com/AlanFaraj83/Projeto-Dicionario-Portugues/blob/main/LICENSE para mais detalhes.
+
   
 
