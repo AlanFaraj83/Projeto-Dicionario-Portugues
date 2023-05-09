@@ -7,7 +7,7 @@ let resultado = document.querySelector('#container_result');
 btnTxt.addEventListener('click', () => {
     let palavra = inputTxt.value;
     if (palavra === '') {
-        alert('Nada foi escrito');
+        resultado.innerHTML = `<p id="container-significa">Escreva alguma palavra no campo de busca!!</p>`;
     } else {
         fetch(`${url}${palavra}`)
             .then((resposta) => resposta.json())
@@ -20,8 +20,6 @@ btnTxt.addEventListener('click', () => {
                 <p id="container-significa"><span>3°</span>${data[0].meanings[2]}</p>
                 <p id="container-significa"><span>4°</span>${data[0].meanings[3]}</p>`
 
-                }
-
-            )
+            })
     }
 })
