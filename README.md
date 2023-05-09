@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
- <img alt="OriginSix" src="https://github.com/AlanFaraj83/Projeto-Dicionario-Portugues/assets/31050663/a95ca716-583d-4e80-85e5-f2715ef832a7" width="100%">
+ <img alt="OriginSix" src="https://github.com/AlanFaraj83/Projeto-Dicionario-Portugues/assets/31050663/492a3984-ba4c-40c0-b7b1-b6a58f5852e8" width="100%">
 </p>
 
 <p align="center">
@@ -29,8 +29,6 @@
   ### <strong><i>Como clonar o projeto:</i></strong>
 
 <p> git clone https://github.com/AlanFaraj83/Projeto-Dicionario-Portugues.git</p>
-
-</br>
 
 ## 📝 Licença
 
