@@ -17,7 +17,7 @@ btnTxt.addEventListener('click', () => {
                 `<h3 id="container_palavra">${palavra}</h3>
                 <p id="container-significa"><span>1°</span>${data[0].meanings[0]}</p>
                 <p id="container-significa"><span>2°</span>${data[0].meanings[1]}</p>
-                <p id="container-significa"><span>3°</span>Construção de tijolos</p>`
+                <p id="container-significa"><span>3°</span>${data[0].meanings[2]}</p>`
 
             }
 
