@@ -20,6 +20,8 @@ btnTxt.addEventListener('click', () => {
                 <p id="container-significa"><span>3°</span>${data[0].meanings[2]}</p>
                 <p id="container-significa"><span>4°</span>${data[0].meanings[3]}</p>`
 
+            }).catch(() => {
+                resultado.innerHTML = `<p id="container-significa"><span>Não</span>foi possível encontrar está palavra!!</p>`;
             })
     }
 })
